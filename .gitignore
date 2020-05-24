@@ -1,2 +1,6 @@
 .clasp.json
+.idea
+.vscode 
+.*~
+
 node_modules
